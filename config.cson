@@ -1,0 +1,58 @@
+"*":
+  "Remote-FTP":
+    autoUploadOnSave: "never"
+  "atom-beautify":
+    general:
+      _analyticsUserId: "2b5f65d0-e91a-4eb6-a065-eeb7b9fcfc8c"
+  "autocomplete-ruby":
+    rsensePath: "/usr/local/opt/rbenv/versions/2.3.0/bin/rsense"
+  core:
+    disabledPackages: [
+      "linter-htmlhint"
+      "japanese-wrap"
+      "linter-haml"
+      "linter-php"
+      "japanese-menu"
+    ]
+    telemetryConsent: "no"
+  editor:
+    invisibles: {}
+    preferredLineLength: 120
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabType: "soft"
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "3578f459-62f3-39a3-7143-0ca5ac0f0bec"
+  "file-types":
+    erb: "text.html.ruby"
+    rb: "source.ruby.rails"
+  "git-projects": {}
+  "highlight-line":
+    enableBackgroundColor: false
+  "japanese-wrap":
+    characterWidth: {}
+  linter: {}
+  "linter-rubocop":
+    disableWhenNoConfigFile: true
+  "linter-ui-default":
+    panelHeight: 69
+  minimap: {}
+  "rubocop-auto-correct":
+    autoRun: true
+    correctFile: true
+    rubocopCommandPath: "/usr/local/opt/rbenv/versions/2.3.0/bin/rubocop"
+  tabs: {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  wakatime:
+    apikey: "Saved in your ~/.wakatime.cfg file"
+  welcome:
+    showOnStartup: false
+".basic.html.text":
+  editor:
+    showIndentGuide: true
+  "linter-swiftlint":
+    configurationPath: ".swiftlint.yml"
+    swiftlintExecutablePath: "/usr/local/bin/swiftlint"
